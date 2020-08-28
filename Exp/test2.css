@@ -1,0 +1,8 @@
+#square {
+    width: 240px;
+    height: 200px;
+    background-color: antiquewhite;
+    border-style: solid;
+    float: left;
+    margin-left: 10px;
+}
